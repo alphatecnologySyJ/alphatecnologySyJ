@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>componentes</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>46</tipo>
+              <etiqueta texto="transmite videos e imagenes en nuestra pantalla"  posy="4">memoria ram</etiqueta>
+              <etiqueta texto="almacena datos digitales de forma rápida y segura"  posy="2">disco duro</etiqueta>
+              <etiqueta texto="une componentes del computador en un mismo punto"  posy="6">ventiladores</etiqueta>
+              <etiqueta texto="almacena la informacion que un progama necesita mientras se ejecuta"  posy="1">tarjeta grafica</etiqueta>
+              <etiqueta texto="transforma la enegia de alterna a continua "  posy="3">placa madre</etiqueta>
+              <etiqueta texto="facilita el flujo de aire"  posy="5">fuente de poder</etiqueta>
+        </paxina>
+    </libro>
+</lim>
